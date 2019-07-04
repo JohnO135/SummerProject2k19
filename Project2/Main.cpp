@@ -11,11 +11,11 @@ int main() {
 	double totalGross = 0;
 	double totalNet = 0;
 
-	double fedIncomeTax = .0816;
-	double FICA = 0.0619;
-	double Medicare = 0.0144;
-	double SDIWithholding = 0.01;
-	double StateWithholding = 0.0153;
+	double fedIncomeTax = .08167565;
+	double FICA = 0.06199924;
+	double Medicare = 0.01449613;
+	double SDIWithholding = 0.01023104;
+	double StateWithholding = 0.01534224;
 
 
 
